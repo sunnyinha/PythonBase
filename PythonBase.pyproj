@@ -27,6 +27,9 @@
     <Compile Include="Algorithm_List.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="debug.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="HelloWorld.py">
       <SubType>Code</SubType>
     </Compile>

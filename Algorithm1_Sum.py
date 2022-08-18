@@ -14,3 +14,5 @@ for i in range(0,N): #주어진 범위
 
 #Output
 print(f"{N}명의 점수 중 80점 이상의 총점: {sum}")
+
+
