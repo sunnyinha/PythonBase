@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8c2f5f06-d3a0-4904-84d3-caee93704ad4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lambdafunction.py</StartupFile>
+    <StartupFile>ListDemo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +24,11 @@
     <Compile Include="HelloWorld.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Lambdafunction.py">
+    <None Include="Lambdafunction.py">
+      <SubType>Code</SubType>
+      <Publish>True</Publish>
+    </None>
+    <Compile Include="ListDemo.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonBase.py" />
