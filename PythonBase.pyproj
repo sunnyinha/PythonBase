@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8c2f5f06-d3a0-4904-84d3-caee93704ad4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Algorithm1_Sum.py</StartupFile>
+    <StartupFile>Algorithm1_Sequence.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Algorithm1_Sequence.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Algorithm1_Sum.py">
       <SubType>Code</SubType>
     </Compile>
