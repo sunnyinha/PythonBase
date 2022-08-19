@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8c2f5f06-d3a0-4904-84d3-caee93704ad4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Algorithm1_Sequence.py</StartupFile>
+    <StartupFile>Algorithm7_Rank.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,10 +21,28 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Algorithm2_Count.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Algorithm1_Sequence.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Algorithm1_Sum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithm3_Average.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithm4_Max.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithm5_Min.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithm6_Near.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithm7_Rank.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Algorithm_List.py">
