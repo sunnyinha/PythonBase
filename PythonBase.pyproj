@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8c2f5f06-d3a0-4904-84d3-caee93704ad4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Algorithm7_Rank.py</StartupFile>
+    <StartupFile>Algorithm12_Group.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Algorithm11_Mode.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithm12_Group.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Algorithm2_Count.py">
       <SubType>Code</SubType>
     </Compile>
@@ -43,6 +49,15 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Algorithm7_Rank.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithm8_Sort.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithm9_Search.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithm10_Merge.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Algorithm_List.py">
